@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="localhost" id="73f3bd58-2b2d-44ef-a8ad-c63134976434" port="22" customName="bitrix_les" nameFormat="CUSTOM">
+        <option name="customName" value="bitrix_les" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.74.129" id="655c2d85-3e60-4b64-83fe-0fe32b9ce781" port="22" nameFormat="DESCRIPTIVE" username="bitrix" />
+    </configs>
+  </component>
+</project>

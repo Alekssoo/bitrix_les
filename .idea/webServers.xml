@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bf7d66da-065b-486f-939c-b2c2067e1404" name="bitrix_les" url="http://bitrix_les/">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="192.168.74.129" port="22" sshConfigId="655c2d85-3e60-4b64-83fe-0fe32b9ce781" sshConfig="bitrix@192.168.74.129:22 password" />
+      </webServer>
+    </option>
+  </component>
+</project>
